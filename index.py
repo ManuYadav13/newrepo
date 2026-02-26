@@ -1,3 +1,3 @@
 def repo(k):
     a =2
-repo()    
+repo()    # stripe of function  in the repo
